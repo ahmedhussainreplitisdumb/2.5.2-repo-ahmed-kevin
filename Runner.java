@@ -7,17 +7,18 @@ import java.util.Scanner;
  */
 public class Runner
 {
-  public Runner(){
-    
-  }
-  public static void main(String[] args) 
-  {
-    PhraseSolver p = new PhraseSolver(); 
-    
-    p.play();
-    
-  }
+    public Runner() { }
 
+    public static void main(String[] args) 
+    {
+        PhraseSolver p = new PhraseSolver();
 
+        p.play();
 
-} 
+        
+
+        
+      
+        
+    }
+}
